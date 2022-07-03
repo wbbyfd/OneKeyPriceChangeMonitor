@@ -1,0 +1,2 @@
+# OneKeyPriceChangeMonitor
+一键批量监控持仓标的价格涨跌情况并实时提醒
